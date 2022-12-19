@@ -1,5 +1,5 @@
 
 function fajlFunctionBody() {
-document.getElementById("p6").innerHTML = "<b>6. link v body funkcija</b>";
+document.getElementById("p5").innerHTML = "<b>5. funkcija v linku v body </b>";
 }
-document.getElementById("p7").innerHTML = "<b>7. link v body skript</b>";
+document.getElementById("p5a").innerHTML = "<b>5a. skript v linku v body</b>";
