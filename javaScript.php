@@ -1,4 +1,7 @@
-
+<?php
+echo'
 <script>
-document.getElementById("p4").innerHTML = "4. skript v PHP";
+document.getElementById("p4").innerHTML = "<b>4. skript v PHP</b>";
 </script>
+';
+?>
